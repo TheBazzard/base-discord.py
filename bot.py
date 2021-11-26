@@ -4,6 +4,7 @@ from discord.ext import commands
 TOKEN = "" # <--- Your token.
 
 bot = commmands.Bot(command_prefix = '') # <--- Your prefix.
+bot.remove_command("help")
 
 @bot.event                                    
 async def on_ready():                                
