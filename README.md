@@ -1,2 +1,2 @@
 # Simplest Base for Discord Bot.
-Discord: Bazzard#6666
+Discord: Bazzard#5848
